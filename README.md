@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a PhD Student in Geography at UCL studying human mobility, infectious disease modelling, and the limitations of mobile phone location data. See more about my research interests [here](https://hamishgibbs.net/).
+I'm a PhD Student in Geography at UCL studying human mobility, infectious disease modelling, and the limitations of mobile phone location data. 
+
+You can see more about my research interests [here](https://hamishgibbs.net/).
 
 **BIO**
 
