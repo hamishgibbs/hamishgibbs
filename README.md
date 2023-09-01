@@ -12,7 +12,7 @@ You can see more about my research interests [here](https://hamishgibbs.net/).
 * In 2018, I recieved an MSc in Geoinformation Technology and Cartography at the University of Glasgow. In my research, I used multi-sensor remote sensing data to measure vegetation growth.
 * In 2017, I graduated from Syracuse University with a BA in Geography and minors in Spanish and Applied Statistics.
 
-On Github, you can find the source code for a number of my publications as well as personal projects I have made. I have so many GitHub contributions because I love using [Logseq](https://logseq.com/). 
+On Github, you can find the source code for a number of my publications as well as my personal projects. I have so many GitHub contributions because I love using [Logseq](https://logseq.com/). 
 
 <!--
 **hamishgibbs/hamishgibbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
