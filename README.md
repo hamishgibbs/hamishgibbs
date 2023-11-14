@@ -7,5 +7,3 @@ I'm a PhD Student at University College London studying human mobility and infec
 * At LSHTM, I studied behavioral responses to COVID-19 travel restrictons and helped create the [WHO Public Health and Social Measures dataset](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm).
 * In 2018, I recieved my MSc in Geoinformation Technology and Cartography at the University of Glasgow. In my thesis, I used multi-sensor remote sensing data to measure vegetation growth.
 * In 2017, I graduated from Syracuse University with a BA in Geography and minors in Spanish and Applied Statistics.
-
-On Github, you can find the source code for a number of my publications as well as my personal projects. I have so many private contributions because I love using [Logseq](https://logseq.com/). 
