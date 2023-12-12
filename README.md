@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD Student at University College London studying human mobility and infectious disease modelling. I love using large-scale data to answer complex questions about human mobility. You can see more about my research interests [here](https://hamishgibbs.net/).
+I'm a PhD Student at University College London. I study large-scale mobility datasets to improve their use in emergencies. You can see more about my research interests [here](https://hamishgibbs.net/).
 
 * Since 2021, I've been a PhD student in the [UCL Department of Geography](https://www.ucl.ac.uk/geography/hamish-gibbs).
 * From 2018 to 2021, I was a Research Assistant at the London School of Hygiene and Tropical Medicine (LSHTM).
