@@ -4,7 +4,7 @@ I'm a Postdoctoral Researcher in the [SUN Lab](https://socialurban.net) in the N
 
 * From 2021 to September 2024, I was a PhD student at the UCL Department of Geography.
 * At UCL, my PhD thesis focused on addressing bias and uncertainty in mobility data.
-* In 2024, I also worked as a Software Engineer with [Applied Epi](https://appliedepi.org/).
+* In 2024, I also worked as a Consultant Software Engineer with [Applied Epi](https://appliedepi.org/).
 * From 2018 to 2021, I was a Research Assistant at the London School of Hygiene and Tropical Medicine (LSHTM).
 * At LSHTM, I studied behavioral responses to COVID-19 travel restrictions. This led to publications in [Nature Communications](https://www.nature.com/articles/s41467-020-18783-0) and [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009162). I also helped create the [WHO Public Health and Social Measures dataset](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm).
 * In 2018, I received my MSc in Geoinformation Technology and Cartography at the University of Glasgow. In my thesis, I used multi-sensor remote sensing data to measure vegetation growth.
